@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ibrar</h1>
 <h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadibrar21&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadibrar21" /> 0 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadibrar21&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadibrar21" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadibrar21" alt="muhammadibrar21" /></a> </p>
 
